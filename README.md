@@ -1,2 +1,1 @@
-My first readme
-This is my time. I can win
+README file has been updated
